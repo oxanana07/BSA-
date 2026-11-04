@@ -1,7 +1,3 @@
-
-
-## Chapter V <div id="chapter-v"></div>
-
 ### Exercise 00 — Creating a workspace (Создание пространства) <div id="51"></div>
 **Для каждой задачи**:
 
